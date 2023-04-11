@@ -1,2 +1,2 @@
 Feature 10: Support federated logins
-abc - local repo 
+abc - local repo
