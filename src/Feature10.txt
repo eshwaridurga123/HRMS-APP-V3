@@ -1,2 +1,2 @@
 Feature 10: Support federated logins
-second line - remote repo
+second line -- remote repo
